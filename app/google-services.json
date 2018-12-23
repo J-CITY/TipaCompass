@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258160596997",
+    "firebase_url": "https://tipacompass-70d1a.firebaseio.com",
+    "project_id": "tipacompass-70d1a",
+    "storage_bucket": "tipacompass-70d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258160596997:android:81456a29afa0aee7",
+        "android_client_info": {
+          "package_name": "com.lesson.dg.tipacompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258160596997-e7ifl6b16nnimfsh1og45cfo2bstag1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lesson.dg.tipacompass",
+            "certificate_hash": "783c2cb9e8ece3fdd47c169ddc20d06cbf8da734"
+          }
+        },
+        {
+          "client_id": "258160596997-5eckptot04nbfniqt1np99v766jgctt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGYOsjK7VSnrT-cq8B0l5ChSUXci8FU74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258160596997-5eckptot04nbfniqt1np99v766jgctt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
